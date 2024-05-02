@@ -2,7 +2,6 @@
   <div align="center">
     <img src="https://github.com/SHAKIB-71/BL4CK-H4X0R/assets/131977613/4f4ec766-da09-44c7-a136-955e3ae27375" alt="MUHAMMAD SHAKIB" width="222">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=30&pause=1000&color=000115&center=true&random=false&width=435&lines=It's+Me+MUHAMMAD+SHAKIB;Founder+of+DARK+SOUL" alt="Typing SVG" /></a>
-    <p >Welcome to my coding Journey</p>
     <p> <img src="https://komarev.com/ghpvc/?username=SHAKIB-71&label=Profile%20viewd%20by&color=000115&style=for-the-badge" alt="MUHAMMAD SHAKIB" /> </p>
     <p>
       <a href="https://www.facebook.com/MUHAMMADSHAKIB93"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" alt="FACEBOOK"></a>
