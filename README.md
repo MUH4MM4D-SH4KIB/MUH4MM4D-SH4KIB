@@ -16,8 +16,8 @@
     <h2>📚 Learning</h2>
     <img alt="Static Badge" src="https://img.shields.io/badge/ANDROID_DEVELOPMENT-000115?style=for-the-badge"></br></br>
     <h2>📈 GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=SHAKIB-71&show_icons=true&theme=radical" alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=SHAKIB-71&theme=radical" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAKIB-71&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SHAKIB-71&show_icons=true&theme=dark" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SHAKIB-71&theme=dark" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAKIB-71&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   </div>
 </body>
