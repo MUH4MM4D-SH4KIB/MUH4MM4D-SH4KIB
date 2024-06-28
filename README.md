@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <img src="./MUH4MM4D-SH4KIB.png" alt="MUHAMMAD SHAKIB" width="222">
+    <img src="./MUH4MM4D-SH4KIB.png" alt="MUHAMMAD SHAKIB" width="250">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=30&pause=1000&color=000115&center=true&random=false&width=435&lines=It's+Me+MUHAMMAD+SHAKIB;Founder+of+DARK+SOUL" alt="Typing SVG" /></a>
     <p> <img src="https://komarev.com/ghpvc/?username=MUH4MMAD-SH4KIB&label=Profile%20viewd%20by&color=000115&style=for-the-badge" alt="MUHAMMAD SHAKIB" /> </p>
     <p>
