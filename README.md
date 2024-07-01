@@ -19,6 +19,5 @@
     <h2>GitHub States</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUH4MM4D-SH4KIB&langs_count=10&theme=tokyonight&layout=compact" alt="GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api?username=MUH4MM4D-SH4KIB&show_icons=true&theme=synthwave" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUH4MM4D-SH4KIB &theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   </div>
 </body>
