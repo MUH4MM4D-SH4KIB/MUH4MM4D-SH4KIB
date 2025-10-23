@@ -1,7 +1,7 @@
 ![Profile Banner](./MUH4MM4D-SH4KIB.png)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=30&pause=1000&color=000115&center=true&random=false&width=435&lines=It's+Me+Muhammad+Shakib" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=30&pause=1000&color=000115&center=true&random=false&width=435&lines=It's+me+MUHAMMAD+SHAKIB" alt="Typing SVG" />
   
   ![Profile Views](https://komarev.com/ghpvc/?username=MUH4MM4D-SH4KIB&label=Profile+views&color=000115&style=for-the-badge)
 </div>
