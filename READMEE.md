@@ -15,7 +15,8 @@
       <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge" alt="JavaScript">
     </p>
 </body>
-    ### 🔍 Security & Reverse Engineering
+
+### 🔍 Security & Reverse Engineering
 - Experienced in mobile application security testing  
 - Proficient in bypassing SSL/TLS certificate pinning for security research and penetration testing purposes
 
