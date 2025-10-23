@@ -14,10 +14,17 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
       <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge" alt="JavaScript">
     </p>
-    <h2>📚 Learning</h2>
-    <img alt="Static Badge" src="https://img.shields.io/badge/ANDROID_DEVELOPMENT-000115?style=for-the-badge"></br></br>
-    <h2>GitHub States</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUH4MM4D-SH4KIB&langs_count=10&theme=tokyonight&layout=compact" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MUH4MM4D-SH4KIB&show_icons=true&theme=synthwave" alt="GitHub Streak" />
+    ### 🔍 Security & Reverse Engineering
+- Experienced in mobile application security testing  
+- Proficient in bypassing SSL/TLS certificate pinning for security research and penetration testing purposes
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MUH4MM4D-SH4KIB&show_icons=true&theme=synthwave" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUH4MM4D-SH4KIB&langs_count=10&theme=tokyonight&layout=compact" width="48%" />
+</div>
   </div>
 </body>
