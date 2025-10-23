@@ -17,6 +17,7 @@
 </body>
 
 ### 🔍 Security & Reverse Engineering
+---
 - Experienced in mobile application security testing  
 - Proficient in bypassing SSL/TLS certificate pinning for security research and penetration testing purposes
 
