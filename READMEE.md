@@ -27,5 +27,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MUH4MM4D-SH4KIB&show_icons=true&theme=synthwave" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUH4MM4D-SH4KIB&langs_count=10&theme=tokyonight&layout=compact" width="48%" />
 </div>
-  </div>
+</div>
 
