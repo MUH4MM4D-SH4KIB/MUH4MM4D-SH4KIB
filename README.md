@@ -17,10 +17,9 @@
 </body>
 
 <h3> 🔍 Security & Reverse Engineering</h3>
-<li>
-<ul> Experienced in mobile application security testing </ul>
-<ul> Proficient in bypassing SSL/TLS certificate pinning for security research and penetration testing purposes </ul>
-</li>
+<p> • Experienced in mobile application security testing </p>
+<p> • Proficient in bypassing SSL/TLS certificate pinning for security research and penetration testing purposes </p>
+
 
 
 <h3>📊 GitHub Stats</h3>
