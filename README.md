@@ -1,7 +1,7 @@
 <body>
   <div align="center">
     <img src="./MUH4MM4D-SH4KIB.png" alt="MUHAMMAD SHAKIB" width="250">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=30&pause=1000&color=000115&center=true&random=false&width=435&lines=It's+Me+MUHAMMAD+SHAKIB;Founder+of+DARK+SOUL" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=30&pause=1000&color=000115&center=true&random=false&width=435&lines=It's+me+MUHAMMAD+SHAKIB" alt="Typing SVG" /></a>
     <p> <img src="https://komarev.com/ghpvc/?username=MUH4MMAD-SH4KIB&label=Profile%20viewd%20by&color=000115&style=for-the-badge" alt="MUHAMMAD SHAKIB" /> </p>
     <p>
       <a href="https://www.facebook.com/MUH4MM4DSH4KIB"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" alt="FACEBOOK"></a>
