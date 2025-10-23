@@ -7,7 +7,7 @@
       <a href="https://www.facebook.com/MUH4MM4DSH4KIB"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" alt="FACEBOOK"></a>
       <a href="https://t.me/MUH4MM4DSH4KIB"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="TELEGRAM"></a>
     </p>
-    <h2>💼 Teach Skills</h2>
+    <h3>💼 Technical Skills</h3>
     <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -16,12 +16,14 @@
     </p>
 </body>
 
-<h2> 🔍 Security & Reverse Engineering</h2>
-- Experienced in mobile application security testing  
-- Proficient in bypassing SSL/TLS certificate pinning for security research and penetration testing purposes
+<h3> 🔍 Security & Reverse Engineering</h3>
+<li>
+<ul> Experienced in mobile application security testing </ul>
+<ul> Proficient in bypassing SSL/TLS certificate pinning for security research and penetration testing purposes </ul>
+</li>
 
 
-### 📊 GitHub Stats
+<h3>📊 GitHub Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MUH4MM4D-SH4KIB&show_icons=true&theme=synthwave" width="48%" />
