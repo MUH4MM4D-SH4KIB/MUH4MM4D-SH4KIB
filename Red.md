@@ -3,6 +3,7 @@
   <img src="https://github.com/MUH4MM4D-SH4KIB/MUH4MM4D-SH4KIB/blob/main/MUH4MM4D-SH4KIB.png?raw=true" alt="MUHAMMAD SHAKIB" width="160" style="border-radius: 50%; margin: 10px;">
 
   <br>
+  
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Caveat+Brush&size=28&duration=3000&pause=800&color=000115&center=true&vCenter=true&width=440&lines=It's+me+MUHAMMAD+SHAKIB;Ethical+Security+Researcher;Mobile+App+Tester;Student+%26+Learner" alt="Typing SVG" />
