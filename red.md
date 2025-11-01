@@ -1,4 +1,4 @@
-# 🛡️ MUHAMMAD SHAKIB | Ethical Security Researcher
+# 🛡️ MUHAMMAD SHAKIB | Security Researcher
 
 <div align="center">
 
@@ -38,7 +38,7 @@ I'm **Muhammad Shakib**, a passionate Ethical Security Researcher and Mobile App
 ## 💼 Core Competencies
 
 ### 🔒 Security Specializations
-- **Mobile Application Security Testing** (Android/iOS)
+- **Mobile Application Security Testing**
 - **Reverse Engineering & Static Analysis**
 - **SSL/TLS Certificate Pinning Bypass**
 - **Vulnerability Assessment & Penetration Testing**
@@ -99,7 +99,6 @@ I'm **Muhammad Shakib**, a passionate Ethical Security Researcher and Mobile App
   [![Facebook](https://img.shields.io/badge/Facebook-MUH4MM4DSH4KIB-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/MUH4MM4DSH4KIB)
   [![Telegram](https://img.shields.io/badge/Telegram-MUH4MM4DSH4KIB-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/MUH4MM4DSH4KIB)
   [![GitHub](https://img.shields.io/badge/GitHub-MUH4MM4D--SH4KIB-181717?style=for-the-badge&logo=github)](https://github.com/MUH4MM4D-SH4KIB)
-  [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
 
 </div>
 
@@ -120,9 +119,8 @@ I'm **Muhammad Shakib**, a passionate Ethical Security Researcher and Mobile App
 ---
 
 ### 🔎 How to Find Me Online
-**Search Terms:** Muhammad Shakib Security Researcher, Mobile App Pentester Bangladesh, Ethical Hacking GitHub, Android Security Specialist, Reverse Engineering Expert
+**Search Terms:** Muhammad Shakib Security Researcher, Mobile App Pentester Bangladesh, Android Security Specialist, Reverse Engineering Expert
 
-*Last Updated: December 2023*
 
 ---
 
