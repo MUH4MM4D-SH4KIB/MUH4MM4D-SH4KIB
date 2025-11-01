@@ -30,9 +30,7 @@
 
 ## 👋 About Me
 
-I'm **Muhammad Shakib**, a passionate Ethical Security Researcher and Mobile Application Pentester with specialized expertise in reverse engineering and vulnerability assessment. I focus on identifying security flaws in mobile applications and helping developers create more secure software.
-
-**🔍 Search Keywords:** Muhammad Shakib GitHub, Ethical Hacker, Mobile Security Researcher, Android Pentesting, Reverse Engineering Specialist, SSL Pinning Bypass, Bangladesh Security Researcher
+I'm **Muhammad Shakib**, a passionate Security Researcher and Mobile Application Pentester with specialized expertise in reverse engineering and vulnerability assessment. I focus on identifying security flaws in mobile applications and helping developers create more secure software.
 
 ---
 
