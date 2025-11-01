@@ -1,3 +1,4 @@
+<!-- google-site-verification: [YOUR_VERIFICATION_CODE] -->
 # 🛡️ MUHAMMAD SHAKIB | Security Researcher
 
 <div align="center">
