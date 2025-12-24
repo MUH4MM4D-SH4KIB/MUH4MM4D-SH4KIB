@@ -80,17 +80,6 @@ I'm **Muhammad Shakib**, a passionate Security Researcher and Mobile Application
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MUH4MM4D-SH4KIB&show_icons=true&theme=synthwave&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUH4MM4D-SH4KIB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
