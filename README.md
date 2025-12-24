@@ -30,7 +30,7 @@
 
 ## 👋 About Me
 
-I'm **Muhammad Shakib**, a passionate Security Researcher and Mobile Application Pentester with specialized expertise in reverse engineering and vulnerability assessment. I focus on identifying security flaws in mobile applications and helping developers create more secure software.
+It's me **MUHAMMAD SHAKIB**, a passionate Security Researcher and Mobile Application Pentester with specialized expertise in reverse engineering and vulnerability assessment. I focus on identifying security flaws in mobile applications and helping developers create more secure software.
 
 ---
 
