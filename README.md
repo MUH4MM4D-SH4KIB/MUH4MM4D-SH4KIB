@@ -1,5 +1,5 @@
 
-# 🛡️ MUHAMMAD SHAKIB | Security Researcher
+# 🛡️ MUHAMMAD SHAKIB 
 
 <div align="center">
 
@@ -41,7 +41,7 @@ I'm **Muhammad Shakib**, a passionate Security Researcher and Mobile Application
 - **Reverse Engineering & Static Analysis**
 - **SSL/TLS Certificate Pinning Bypass**
 - **Vulnerability Assessment & Penetration Testing**
-- **Security Research & Ethical Hacking**
+- **Security Research**
 
 ### 🛠️ Technical Skills
 
@@ -101,11 +101,6 @@ I'm **Muhammad Shakib**, a passionate Security Researcher and Mobile Application
 
 ---
 
-> 🕊️ **Free Palestine** ✊  
-> *"Knowledge shared is knowledge squared." - Passionate about ethical security research and making the digital world safer.*
-
----
-
 ### 🔎 How to Find Me Online
 **Search Terms:** Muhammad Shakib Security Researcher, Mobile App Pentester Bangladesh, Android Security Specialist, Reverse Engineering Expert
 
@@ -121,11 +116,3 @@ I'm **Muhammad Shakib**, a passionate Security Researcher and Mobile Application
 ## 📫 Let's Collaborate
 
 I'm always open to discussing security research, collaboration on projects, or helping with mobile application security challenges. Feel free to reach out through any of the platforms above!
-
----
-
-<div align="center">
-
-**"Security is not a product, but a process."** - Bruce Schneier
-
-</div>
