@@ -89,30 +89,3 @@ It's me **MUHAMMAD SHAKIB**, a passionate Security Researcher and Mobile Applica
   [![GitHub](https://img.shields.io/badge/GitHub-MUH4MM4D--SH4KIB-181717?style=for-the-badge&logo=github)](https://github.com/MUH4MM4D-SH4KIB)
 
 </div>
-
----
-
-## 🌟 Current Focus
-
-- 🔬 Researching advanced mobile application security techniques
-- 🛡️ Developing security assessment methodologies
-- 📚 Continuous learning in reverse engineering
-- 🔍 Exploring new vulnerability classes in mobile apps
-
----
-
-### 🔎 How to Find Me Online
-**Search Terms:** Muhammad Shakib Security Researcher, Mobile App Pentester Bangladesh, Android Security Specialist, Reverse Engineering Expert
-
-
----
-
-<div align="center">
-
-### ⚡ **"Curiosity is the engine of achievement."**
-
-</div>
-
-## 📫 Let's Collaborate
-
-I'm always open to discussing security research, collaboration on projects, or helping with mobile application security challenges. Feel free to reach out through any of the platforms above!
