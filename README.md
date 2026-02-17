@@ -1,91 +1,100 @@
-
-# 🛡️ MUHAMMAD SHAKIB 
-
 <div align="center">
 
-  <img src="https://github.com/MUH4MM4D-SH4KIB/MUH4MM4D-SH4KIB/blob/main/MUH4MM4D-SH4KIB.png?raw=true" alt="MUHAMMAD SHAKIB" width="160" style="border-radius: 50%; margin: 10px;">
+  <img src="https://github.com/MUH4MM4D-SH4KIB/MUH4MM4D-SH4KIB/blob/main/MUH4MM4D-SH4KIB.png?raw=true" alt="MUHAMMAD SHAKIB" width="150" style="border-radius: 50%;">
+
+  <br><br>
+
+  # MUHAMMAD SHAKIB
+
+  **Security Researcher · Reverse Engineer · Full-Stack Developer**
+
+  I break apps to make them secure — and build things from scratch.
 
   <br>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Caveat+Brush&size=28&pause=1000&color=000115&center=true&width=435&lines=MUHAMMAD+SHAKIB;Ethical+Security+Researcher;Mobile+App+Pentester;Reverse+Engineering+Specialist" alt="Typing SVG" />
-  </a>
-
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=MUH4MM4D-SH4KIB&label=Profile+Views&color=000115&style=for-the-badge" alt="Profile views" />
-
-  <br><br>
-
-  <a href="https://www.facebook.com/MUH4MM4DSH4KIB">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
   <a href="https://t.me/MUH4MM4DSH4KIB">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-@MUH4MM4DSH4KIB-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram">
   </a>
+  &nbsp;
+  <a href="https://github.com/MUH4MM4D-SH4KIB">
+    <img src="https://img.shields.io/badge/GitHub-MUH4MM4D--SH4KIB-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/MUH4MM4DSH4KIB">
+    <img src="https://img.shields.io/badge/Facebook-MUH4MM4DSH4KIB-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=MUH4MM4D-SH4KIB&label=Views&color=555555&style=flat" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👋 About Me
+### 🔐 SSL Pinning Bypass
 
-It's me **MUHAMMAD SHAKIB**, a passionate Security Researcher and Mobile Application Pentester with specialized expertise in reverse engineering and vulnerability assessment. I focus on identifying security flaws in mobile applications and helping developers create more secure software.
+I bypass SSL/TLS certificate pinning at both **Java layer** and **native C/C++ level.**
+
+**Successfully bypassed:**
+
+`Facebook` · `Instagram` · `Instagram Lite` · `Threads` · `Business Suite` · `TikTok` · `Twitter / X` · `Crunchyroll` · `CoinGlass` · and many more across social media, streaming, and fintech apps.
 
 ---
 
-## 💼 Core Competencies
+### 🔍 Reverse Engineering & App Analysis
 
-### 🔒 Security Specializations
-- **Mobile Application Security Testing**
-- **Reverse Engineering & Static Analysis**
-- **SSL/TLS Certificate Pinning Bypass**
-- **Vulnerability Assessment & Penetration Testing**
-- **Security Research**
+```
+ APK Decompilation        →  Tear apart any Android app to its core
+ Native Library Analysis  →  .so file disassembly & ARM64 patching
+ Runtime Instrumentation  →  Frida hooks at Java & native levels
+ Smali Modification       →  Direct bytecode editing & APK rebuilding
+ Signature Spoofing       →  Bypass server-side signature verification
+```
 
-### 🛠️ Technical Skills
+---
+
+### 🔄 API Reverse Engineering
+
+I intercept and reconstruct **private/undocumented APIs** from mobile applications — mapping authentication flows, documenting hidden endpoints, and turning closed systems into testable interfaces.
+
+---
+
+### 💻 Web & API Development
+
+```
+ Frontend   →  Responsive websites with HTML5 · CSS3 · JavaScript
+ Backend    →  RESTful APIs with Python · Flask · FastAPI
+ Full Stack →  End-to-end web applications from UI to database
+```
+
+---
+
+### 🛠️ Tools & Tech
+
+| | |
+|:--|:--|
+| **Security** | Frida · Ghidra · Radare2 · Burp Suite · JADX · APKTool · Objection · mitmproxy |
+| **Languages** | Python · JavaScript · Java · Kotlin · Smali · ARM64 Assembly |
+| **Web / API** | HTML5 · CSS3 · REST APIs · Flask · FastAPI · Postman |
+| **Platforms** | Android · Linux · Termux · Git |
+
+---
+
+### 📊 GitHub Overview
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+
+  
+  &nbsp;
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MUH4MM4D-SH4KIB&theme=default&hide_border=true&ring=0366d6&fire=e36209&currStreakLabel=24292e" alt="GitHub Streak" />
+
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6B6B?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Frida-000000?style=for-the-badge&logo=frida&logoColor=white" alt="Frida" />
-</div>
-
 ---
-
-## 🎯 Expertise Areas
-
-### 📱 Mobile Security
-- **Android App Analysis** and security assessment
-- **Reverse Engineering** using tools like JADX, Ghidra, APKTool
-- **Runtime Manipulation** with Frida and Xposed
-- **SSL Pinning Bypass** techniques for mobile applications
-- **Secure Code Review** and best practices implementation
-
-### 🔧 Technical Capabilities
-- **Static & Dynamic Analysis** of mobile applications
-- **Network Security** testing and intercepting
-- **Cryptographic Implementation** review
-- **Vulnerability Identification** and exploitation
-- **Security Tool Development** in Python
-- **Api Development**
----
-
-## 🔗 Connect With Me
 
 <div align="center">
 
-  [![Facebook](https://img.shields.io/badge/Facebook-MUH4MM4DSH4KIB-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/MUH4MM4DSH4KIB)
-  [![Telegram](https://img.shields.io/badge/Telegram-MUH4MM4DSH4KIB-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/MUH4MM4DSH4KIB)
-  [![GitHub](https://img.shields.io/badge/GitHub-MUH4MM4D--SH4KIB-181717?style=for-the-badge&logo=github)](https://github.com/MUH4MM4D-SH4KIB)
+  **Need something bypassed, reverse engineered, or built?**
+
+  📬 [Telegram](https://t.me/MUH4MM4DSH4KIB) · 💻 [GitHub](https://github.com/MUH4MM4D-SH4KIB) · 📘 [Facebook](https://www.facebook.com/MUH4MM4DSH4KIB)
 
 </div>
