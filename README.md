@@ -1,14 +1,14 @@
 <div align="center">
 
-  <img src="https://github.com/MUH4MM4D-SH4KIB/MUH4MM4D-SH4KIB/blob/main/MUH4MM4D-SH4KIB.png?raw=true" alt="MUHAMMAD SHAKIB" width="150" style="border-radius: 50%;">
+  <img src="https://github.com/MUH4MM4D-SH4KIB/MUH4MM4D-SH4KIB/blob/main/MUH4MM4D-SH4KIB.png?raw=true" alt="Muhammad Shakib - Android Security Researcher & Reverse Engineer" width="150" style="border-radius: 50%;">
 
   <br><br>
 
   # MUHAMMAD SHAKIB
 
-  **Security Researcher · Reverse Engineer · Full-Stack Developer**
+  **Android Security Researcher · Mobile Reverse Engineer · Full-Stack Developer**
 
-  I break apps to make them secure — and build things from scratch.
+  I break apps to make them secure — reverse engineer mobile APIs — and build things from scratch.
 
   <br>
 
@@ -30,13 +30,23 @@
 
 ---
 
-### 🔐 SSL Pinning Bypass
+### 🔐 SSL Pinning Bypass — Java & Native Layer
 
-I bypass SSL/TLS certificate pinning at both **Java layer** and **native C/C++ level.**
+I bypass SSL/TLS certificate pinning at both **Java layer** and **native C/C++ level** using static binary patching (ARM64) and dynamic Frida instrumentation — on both rooted and non-rooted Android devices.
 
 **Successfully bypassed:**
 
-`Facebook` · `Instagram` · `Instagram Lite` · `Threads` · `Business Suite` · `TikTok` · `Twitter / X` · `Crunchyroll` · `CoinGlass` · and many more across social media, streaming, and fintech apps.
+`Facebook` · `Instagram` · `Instagram Lite` · `Threads` · `Business Suite` · `TikTok` · `Twitter / X` · `Snapchat` · `VKontakte (VK)` · `Crunchyroll` · `CoinGlass` · `Exness` · `AliExpress` · `Meituan` · and many more across **social media, streaming, fintech, and e-commerce** apps.
+
+---
+
+### 🔄 API Reverse Engineering & Automation
+
+I intercept and reconstruct **private/undocumented mobile APIs** — mapping authentication flows, documenting hidden endpoints, and turning closed systems into testable interfaces.
+
+**Recent work:**
+- **Facebook Account Creation API** — Built a Python-based API that replicates the full Android app registration flow using Meta's internal mobile GraphQL/Bloks endpoint, including multi-step registration handling and SMS/WhatsApp verification.
+- **Instagram Account Creation API** — Built a Python-based API that automates Instagram's mobile registration flow using Meta's internal GraphQL endpoints, handling session management and verification code delivery.
 
 ---
 
@@ -48,13 +58,9 @@ I bypass SSL/TLS certificate pinning at both **Java layer** and **native C/C++ l
  Runtime Instrumentation  →  Frida hooks at Java & native levels
  Smali Modification       →  Direct bytecode editing & APK rebuilding
  Signature Spoofing       →  Bypass server-side signature verification
+ Binary Patching          →  ARM64 conditional branch modification
+ Frida Gadget Injection   →  Embed gadgets into APKs for non-rooted devices
 ```
-
----
-
-### 🔄 API Reverse Engineering
-
-I intercept and reconstruct **private/undocumented APIs** from mobile applications — mapping authentication flows, documenting hidden endpoints, and turning closed systems into testable interfaces.
 
 ---
 
@@ -72,7 +78,7 @@ I intercept and reconstruct **private/undocumented APIs** from mobile applicatio
 
 | | |
 |:--|:--|
-| **Security** | Frida · Ghidra · Radare2 · Burp Suite · JADX · APKTool · Objection · mitmproxy |
+| **Security** | Frida · Ghidra · Radare2 · Burp Suite · JADX · APKTool · Objection · mitmproxy · Reqable |
 | **Languages** | Python · JavaScript · Java · Kotlin · Smali · ARM64 Assembly |
 | **Web / API** | HTML5 · CSS3 · REST APIs · Flask · FastAPI · Postman |
 | **Platforms** | Android · Linux · Termux · Git |
@@ -90,6 +96,15 @@ I intercept and reconstruct **private/undocumented APIs** from mobile applicatio
 </div>
 
 ---
+
+<!--
+  SEO Keywords: android ssl pinning bypass, mobile security researcher, reverse engineering android apps,
+  frida ssl bypass, ARM64 binary patching, facebook api reverse engineering, instagram account creation python,
+  meta graphql api automation, apk decompilation, native library analysis, certificate pinning bypass,
+  facebook ssl pinning bypass, tiktok ssl bypass, fintech app security, e-commerce ssl bypass,
+  mobile penetration testing, android security tools, libstartup.so bypass, fizz tls bypass,
+  flutter ssl bypass, cronet boringssl bypass, smali modification, frida gadget injection
+-->
 
 <div align="center">
 
