@@ -36,7 +36,7 @@ I bypass SSL/TLS certificate pinning at both **Java layer** and **native C/C++ l
 
 **Successfully bypassed:**
 
-`Facebook` · `Instagram` · `Instagram Lite` · `Threads` · `Business Suite` · `TikTok` · `Twitter / X` · `Snapchat` · `VKontakte (VK)` · `Crunchyroll` · `CoinGlass` · `Exness` · `AliExpress` · `Binance` · `PayPal` · and many more across **social media, streaming, fintech, and e-commerce** apps.
+`Facebook` · `Instagram` · `Facebook Lite` · `Instagram Lite` · `Threads` · `Business Suite` · `TikTok` · `Twitter / X` · `Snapchat` · `VKontakte (VK)` · `Exness` · `AliExpress` · `Binance` · `PayPal` · `Ebay` · and many more across **social media, streaming, fintech, and e-commerce** apps.
 
 ---
 
