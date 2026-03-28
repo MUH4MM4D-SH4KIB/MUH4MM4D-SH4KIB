@@ -45,9 +45,10 @@ I bypass SSL/TLS certificate pinning at both **Java layer** and **native C/C++ l
 I intercept and reconstruct **private/undocumented mobile APIs** — mapping authentication flows, documenting hidden endpoints, and turning closed systems into testable interfaces.
 
 **Recent work:**
-- **Facebook Account Creation API** — Built a Python-based API that replicates the full Android app registration flow using Meta's internal mobile GraphQL/Bloks endpoint, including multi-step registration handling and SMS/WhatsApp verification.
-- **Instagram Account Creation API** — Built a Python-based API that automates Instagram's mobile registration flow using Meta's internal GraphQL endpoints, handling session management and verification code delivery.
-
+- **Facebook Account Creation API**
+- **Instagram Account Creation API**
+- **Facebook Account Information Extracting API**
+- **Instagram Account Information Extracting API**
 ---
 
 ### 🔍 Reverse Engineering & App Analysis
